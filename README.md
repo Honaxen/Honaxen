@@ -1,0 +1,41 @@
+# Hi, I'm Hossein 👋
+
+ML Engineer in progress · Specializing in NLP and Deep Learning  
+Building every concept I learn into a project.
+
+---
+
+## What I'm Building
+
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [nlp-intelligence-lab](https://github.com/Honaxen/nlp-intelligence-lab) | NLP experiments — tokenization, embeddings, attention | Python · scikit-learn · SBERT |
+| [semantic-similarity-engine](https://github.com/Honaxen/semantic-similarity-engine) | Three approaches to semantic similarity + FastAPI | FastAPI · SBERT · FAISS |
+| [rag-system-from-scratch](https://github.com/Honaxen/rag-system-from-scratch) | RAG pipeline built from scratch — ingestion to evaluation | FAISS · Ollama · sentence-transformers |
+| [llm-evaluation-playground](https://github.com/Honaxen/llm-evaluation-playground) | Systematic LLM behavior analysis — hallucination, latency, retrieval | Ollama · FAISS · pandas |
+
+---
+
+## Focus Areas
+
+- **NLP** — text representation, embeddings, semantic search
+- **LLM Applications** — RAG systems, prompt engineering, evaluation  
+- **LLM Agents** — building autonomous systems with Claude API
+- **Computer Vision** — coming soon
+
+---
+
+## Currently Learning
+
+- Deep Learning fundamentals
+- Transformer architecture
+- Production ML systems
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
