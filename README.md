@@ -13,6 +13,7 @@ Building every concept I learn into a project.
 | [semantic-similarity-engine](https://github.com/Honaxen/semantic-similarity-engine) | Three approaches to semantic similarity + FastAPI | FastAPI · SBERT · FAISS |
 | [rag-system-from-scratch](https://github.com/Honaxen/rag-system-from-scratch) | RAG pipeline built from scratch — ingestion to evaluation | FAISS · Ollama · sentence-transformers |
 | [llm-evaluation-playground](https://github.com/Honaxen/llm-evaluation-playground) | Systematic LLM behavior analysis — hallucination, latency, retrieval | Ollama · FAISS · pandas |
+| [document-agent](https://github.com/Honaxen/document-agent) | Conversational agent that answers questions from any document | FastAPI · FAISS · Ollama |
 
 ---
 
@@ -20,7 +21,7 @@ Building every concept I learn into a project.
 
 - **NLP** — text representation, embeddings, semantic search
 - **LLM Applications** — RAG systems, prompt engineering, evaluation  
-- **LLM Agents** — building autonomous systems with Claude API
+- **LLM Agents** — building autonomous systems with local and hosted LLMs
 - **Computer Vision** — coming soon
 
 ---
