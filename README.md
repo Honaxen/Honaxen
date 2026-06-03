@@ -14,6 +14,7 @@ Building every concept I learn into a project.
 | [rag-system-from-scratch](https://github.com/Honaxen/rag-system-from-scratch) | RAG pipeline built from scratch — ingestion to evaluation | FAISS · Ollama · sentence-transformers |
 | [llm-evaluation-playground](https://github.com/Honaxen/llm-evaluation-playground) | Systematic LLM behavior analysis — hallucination, latency, retrieval | Ollama · FAISS · pandas |
 | [document-agent](https://github.com/Honaxen/document-agent) | Conversational agent that answers questions from any document | FastAPI · FAISS · Ollama |
+| [deep-learning-fundamentals](https://github.com/Honaxen/deep-learning-fundamentals) | From perceptron to transformers — built from scratch | PyTorch · numpy · matplotlib |
 
 ---
 
