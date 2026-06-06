@@ -16,6 +16,7 @@ Building every concept I learn into a project.
 | [document-agent](https://github.com/Honaxen/document-agent) | Conversational agent that answers questions from any document | FastAPI · FAISS · Ollama |
 | [deep-learning-fundamentals](https://github.com/Honaxen/deep-learning-fundamentals) | From perceptron to transformers — built from scratch | PyTorch · numpy · matplotlib |
 | [scientific-language-modeling](https://github.com/Honaxen/scientific-language-modeling) | NLP system for scientific papers — NER, similarity, citation analysis | SBERT · FAISS · NetworkX |
+| [llm-agent-toolkit](https://github.com/Honaxen/llm-agent-toolkit) | Modular LLM agent with tools — calculator, memory, document, search | FastAPI · Ollama · FAISS |
 
 ---
 
