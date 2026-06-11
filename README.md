@@ -27,7 +27,7 @@ Building every concept I learn into a project.
 - **NLP** — text representation, embeddings, semantic search
 - **LLM Applications** — RAG systems, prompt engineering, evaluation  
 - **LLM Agents** — building autonomous systems with local and hosted LLMs
-- **Computer Vision** — coming soon
+- **Computer Vision** — CNNs, edge detection, image classification, transfer learning
 
 ---
 
