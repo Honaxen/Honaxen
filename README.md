@@ -19,6 +19,7 @@ Building every concept I learn into a project.
 | [llm-agent-toolkit](https://github.com/Honaxen/llm-agent-toolkit) | Modular LLM agent with tools — calculator, memory, document, search | FastAPI · Ollama · FAISS |
 | [llm-fine-tuning](https://github.com/Honaxen/llm-fine-tuning) | Fine-tuning DistilGPT-2 on ML text — 86% perplexity reduction, catastrophic forgetting analyzed | PyTorch · HuggingFace · MPS |
 | [computer-vision-fundamentals](https://github.com/Honaxen/computer-vision-fundamentals) | From pixels to CNNs — image basics, filters, edge detection, MNIST 99.3%, transfer learning | PyTorch · numpy · matplotlib |
+| [multi-tool-agent](https://github.com/Honaxen/multi-tool-agent) | ReAct-style LLM agent that decides which tool to call — web search, calculator, Python runner | Ollama · FastAPI · Gradio · Docker |
 
 ---
 
