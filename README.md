@@ -13,7 +13,7 @@ Building every concept I learn into a project.
 | [semantic-similarity-engine](https://github.com/Honaxen/semantic-similarity-engine) | Three approaches to semantic similarity + FastAPI | FastAPI · SBERT · FAISS |
 | [rag-system-from-scratch](https://github.com/Honaxen/rag-system-from-scratch) | RAG pipeline built from scratch — ingestion to evaluation | FAISS · Ollama · sentence-transformers |
 | [llm-evaluation-playground](https://github.com/Honaxen/llm-evaluation-playground) | Systematic LLM behavior analysis — hallucination, latency, retrieval | Ollama · FAISS · pandas |
-| [document-agent](https://github.com/Honaxen/document-agent) | Conversational AI agent with Gradio UI — upload any document, ask questions | FastAPI · FAISS · Ollama · Gradio |
+| [document-agent](https://github.com/Honaxen/document-agent) | Conversational RAG agent — hybrid search (FAISS + BM25 + RRF), evaluation, FastAPI + Gradio + Docker | Ollama · FAISS · BM25 · FastAPI · Gradio |
 | [deep-learning-fundamentals](https://github.com/Honaxen/deep-learning-fundamentals) | From perceptron to transformers — built from scratch | PyTorch · numpy · matplotlib |
 | [scientific-language-modeling](https://github.com/Honaxen/scientific-language-modeling) | NLP system for scientific papers — NER, similarity, citation analysis | SBERT · FAISS · NetworkX |
 | [llm-agent-toolkit](https://github.com/Honaxen/llm-agent-toolkit) | Modular LLM agent with tools — calculator, memory, document, search | FastAPI · Ollama · FAISS |
