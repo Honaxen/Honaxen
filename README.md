@@ -17,10 +17,11 @@ Building every concept I learn into a project.
 | [deep-learning-fundamentals](https://github.com/Honaxen/deep-learning-fundamentals) | From perceptron to transformers — built from scratch | PyTorch · numpy · matplotlib |
 | [scientific-language-modeling](https://github.com/Honaxen/scientific-language-modeling) | NLP system for scientific papers — NER, similarity, citation analysis | SBERT · FAISS · NetworkX |
 | [llm-agent-toolkit](https://github.com/Honaxen/llm-agent-toolkit) | Modular LLM agent with tools — calculator, memory, document, search | FastAPI · Ollama · FAISS |
-| [llm-fine-tuning](https://github.com/Honaxen/llm-fine-tuning) | Fine-tuning DistilGPT-2 on ML text — 86% perplexity reduction, catastrophic forgetting analyzed | PyTorch · HuggingFace · MPS |
+| [llm-fine-tuning](https://github.com/Honaxen/llm-fine-tuning) | Fine-tune TinyLlama-1.1B with LoRA — instruction-following on Alpaca, 0.38% trainable params | PyTorch · PEFT · HuggingFace |
 | [computer-vision-fundamentals](https://github.com/Honaxen/computer-vision-fundamentals) | From pixels to CNNs — image basics, filters, edge detection, MNIST 99.3%, transfer learning | PyTorch · numpy · matplotlib |
 | [multi-tool-agent](https://github.com/Honaxen/multi-tool-agent) | ReAct-style LLM agent that decides which tool to call — web search, calculator, Python runner | Ollama · FastAPI · Gradio · Docker |
 | [rag-evaluation-framework](https://github.com/Honaxen/rag-evaluation-framework) | Standalone RAG evaluation tool — faithfulness, relevance, completeness, precision — JSON + HTML reports | Python · pytest |
+| [research-agent-langgraph](https://github.com/Honaxen/research-agent-langgraph) | Multi-step research agent with LangGraph — state machine, conditional routing, human-in-the-loop | LangGraph · Ollama · Wikipedia API |
 
 ---
 
@@ -37,7 +38,9 @@ Building every concept I learn into a project.
 
 - Deep Learning fundamentals
 - Transformer architecture
-- Production ML systems
+- Production ML deployment
+- LLM Fine-tuning (LoRA, PEFT)
+- Multi-agent systems
 
 ---
 
