@@ -22,6 +22,7 @@ Building every concept I learn into a project.
 | [multi-tool-agent](https://github.com/Honaxen/multi-tool-agent) | ReAct-style LLM agent that decides which tool to call — web search, calculator, Python runner | Ollama · FastAPI · Gradio · Docker |
 | [rag-evaluation-framework](https://github.com/Honaxen/rag-evaluation-framework) | Standalone RAG evaluation tool — faithfulness, relevance, completeness, precision — JSON + HTML reports | Python · pytest |
 | [research-agent-langgraph](https://github.com/Honaxen/research-agent-langgraph) | Multi-step research agent with LangGraph — state machine, conditional routing, human-in-the-loop | LangGraph · Ollama · Wikipedia API |
+| [voice-rag-agent](https://github.com/Honaxen/voice-rag-agent) | Fully local voice RAG agent — speak your question, get a spoken answer. Whisper + pyttsx3 + FAISS + BM25 + Ollama | Whisper · pyttsx3 · FAISS · BM25 · Gradio |
 
 ---
 
