@@ -23,7 +23,8 @@ Building every concept I learn into a project.
 | [rag-evaluation-framework](https://github.com/Honaxen/rag-evaluation-framework) | Standalone RAG evaluation tool — faithfulness, relevance, completeness, precision — JSON + HTML reports | Python · pytest |
 | [research-agent-langgraph](https://github.com/Honaxen/research-agent-langgraph) | Multi-step research agent with LangGraph — state machine, conditional routing, human-in-the-loop | LangGraph · Ollama · Wikipedia API |
 | [voice-rag-agent](https://github.com/Honaxen/voice-rag-agent) | Fully local voice RAG agent — speak your question, get a spoken answer. Whisper + pyttsx3 + FAISS + BM25 + Ollama | Whisper · pyttsx3 · FAISS · BM25 · Gradio |
-| [ml-api-service](https://github.com/Honaxen/ml-api-service) | Production-ready LLM API — JWT auth, rate limiting, Redis caching, Docker Compose | FastAPI · Redis · JWT · Docker |
+| [ml-api-service](https://github.com/Honaxen/ml-api-service) | Production-ready LLM API — JWT auth, rate limiting, Redis caching, Docker Compose | FastAPI · Redis · JWT · Docker 
+| [llm-inference-optimizer](https://github.com/Honaxen/llm-inference-optimizer) | Production LLM inference optimization — quantization (GPTQ/AWQ), vLLM serving, load testing, monitoring, cost analysis, K8s autoscaling | vLLM · GPTQ/AWQ · Prometheus · Grafana · Locust · K8s |
 
 ---
 
