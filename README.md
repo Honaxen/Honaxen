@@ -25,6 +25,7 @@ Building every concept I learn into a project.
 | [voice-rag-agent](https://github.com/Honaxen/voice-rag-agent) | Fully local voice RAG agent — speak your question, get a spoken answer. Whisper + pyttsx3 + FAISS + BM25 + Ollama | Whisper · pyttsx3 · FAISS · BM25 · Gradio |
 | [ml-api-service](https://github.com/Honaxen/ml-api-service) | Production-ready LLM API — JWT auth, rate limiting, Redis caching, Docker Compose | FastAPI · Redis · JWT · Docker 
 | [llm-inference-optimizer](https://github.com/Honaxen/llm-inference-optimizer) | Production LLM inference optimization — quantization (GPTQ/AWQ), vLLM serving, load testing, monitoring, cost analysis, K8s autoscaling | vLLM · GPTQ/AWQ · Prometheus · Grafana · Locust · K8s |
+| [llm-safety-redteam](https://github.com/Honaxen/llm-safety-redteam) | Automated LLM red-teaming — adversarial prompt dataset + mutation, attack runner, LLM-as-judge safety classifier, JSON/HTML safety reports, pluggable defense filter | Python · Ollama · FastAPI · pytest |
 
 ---
 
