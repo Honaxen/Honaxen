@@ -26,6 +26,7 @@ Building every concept I learn into a project.
 | [ml-api-service](https://github.com/Honaxen/ml-api-service) | Production-ready LLM API — JWT auth, rate limiting, Redis caching, Docker Compose | FastAPI · Redis · JWT · Docker 
 | [llm-inference-optimizer](https://github.com/Honaxen/llm-inference-optimizer) | Production LLM inference optimization — quantization (GPTQ/AWQ), vLLM serving, load testing, monitoring, cost analysis, K8s autoscaling | vLLM · GPTQ/AWQ · Prometheus · Grafana · Locust · K8s |
 | [llm-safety-redteam](https://github.com/Honaxen/llm-safety-redteam) | Automated LLM red-teaming — adversarial prompt dataset + mutation, attack runner, LLM-as-judge safety classifier, JSON/HTML safety reports, pluggable defense filter | Python · Ollama · FastAPI · pytest |
+| [llm-mlops-pipeline](https://github.com/Honaxen/llm-mlops-pipeline) | End-to-end CI/CD for LLM systems — automated eval + safety gates, model registry, canary deployment, metric-based automatic rollback | GitHub Actions · FastAPI · pytest |
 
 ---
 
@@ -34,7 +35,8 @@ Building every concept I learn into a project.
 - **NLP** — text representation, embeddings, semantic search
 - **LLM Applications** — RAG systems, prompt engineering, evaluation  
 - **LLM Agents** — building autonomous systems with local and hosted LLMs
-- **Computer Vision** — CNNs, edge detection, image classification, transfer learning
+- **Computer Vision** — CNNs, edge detection, image classification, transfer 
+- **MLOps** — CI/CD pipelines, automated quality/safety gates, canary deployment, automatic rollback
 
 ---
 
