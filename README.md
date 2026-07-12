@@ -27,6 +27,7 @@ Building every concept I learn into a project.
 | [llm-inference-optimizer](https://github.com/Honaxen/llm-inference-optimizer) | Production LLM inference optimization — quantization (GPTQ/AWQ), vLLM serving, load testing, monitoring, cost analysis, K8s autoscaling | vLLM · GPTQ/AWQ · Prometheus · Grafana · Locust · K8s |
 | [llm-safety-redteam](https://github.com/Honaxen/llm-safety-redteam) | Automated LLM red-teaming — adversarial prompt dataset + mutation, attack runner, LLM-as-judge safety classifier, JSON/HTML safety reports, pluggable defense filter | Python · Ollama · FastAPI · pytest |
 | [llm-mlops-pipeline](https://github.com/Honaxen/llm-mlops-pipeline) | End-to-end CI/CD for LLM systems — automated eval + safety gates, model registry, canary deployment, metric-based automatic rollback | GitHub Actions · FastAPI · pytest |
+| [llm-preference-alignment](https://github.com/Honaxen/llm-preference-alignment) | DPO preference alignment on top of an SFT model — self-play preference dataset, LoRA-based DPO training, position-bias-controlled head-to-head evaluation | PyTorch · PEFT · TRL · Ollama |
 
 ---
 
