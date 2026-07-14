@@ -28,6 +28,7 @@ Building every concept I learn into a project.
 | [llm-safety-redteam](https://github.com/Honaxen/llm-safety-redteam) | Automated LLM red-teaming — adversarial prompt dataset + mutation, attack runner, LLM-as-judge safety classifier, JSON/HTML safety reports, pluggable defense filter | Python · Ollama · FastAPI · pytest |
 | [llm-mlops-pipeline](https://github.com/Honaxen/llm-mlops-pipeline) | End-to-end CI/CD for LLM systems — automated eval + safety gates, model registry, canary deployment, metric-based automatic rollback | GitHub Actions · FastAPI · pytest |
 | [llm-preference-alignment](https://github.com/Honaxen/llm-preference-alignment) | DPO preference alignment on top of an SFT model — self-play preference dataset, LoRA-based DPO training, position-bias-controlled head-to-head evaluation | PyTorch · PEFT · TRL · Ollama |
+| [vision-language-qa](https://github.com/Honaxen/vision-language-qa) | Direct VLM vs OCR+LLM question-answering on charts/tables/documents — measured 100% vs 60% accuracy, OCR collapsing to 33% on charts specifically | Ollama (Gemma 3 vision) · Tesseract · pytest |
 
 ---
 
@@ -38,6 +39,7 @@ Building every concept I learn into a project.
 - **LLM Agents** — building autonomous systems with local and hosted LLMs
 - **Computer Vision** — CNNs, edge detection, image classification, transfer 
 - **MLOps** — CI/CD pipelines, automated quality/safety gates, canary deployment, automatic rollback
+- **Vision-Language Models** — multimodal QA, direct-image reasoning vs OCR pipelines
 
 ---
 
