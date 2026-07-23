@@ -32,6 +32,7 @@ Building every concept I learn into a project.
 | [llm-prompt-optimizer](https://github.com/Honaxen/llm-prompt-optimizer) | Automated prompt optimization loop — failure-driven candidate proposal, eval-set scoring, generation-by-generation evolution tracking | Python · Ollama · pytest |
 | [llm-eval-statistics](https://github.com/Honaxen/llm-eval-statistics) | Statistical rigor for LLM eval results — bootstrap confidence intervals, McNemar's test, power analysis, applied to re-examine claims from llm-prompt-optimizer and llm-preference-alignment | Python (stdlib only) · pytest | 
 | [llm-interpretability](https://github.com/Honaxen/llm-interpretability) | Inside TinyLlama-1.1B — attention visualization, logit lens, refusal-intent probing, and activation patching that found a real causal transition at layer 17 | PyTorch · Transformers · scikit-learn · pytest |
+| [agent-memory-system](https://github.com/Honaxen/agent-memory-system) | Long-term memory for LLM agents — episodic + semantic memory, memory-aware agent loop, consolidation, verified 3/3 vs 1/3 cross-session recall against a stateless baseline | Python · Ollama · pytest |
 
 ---
 
@@ -46,6 +47,7 @@ Building every concept I learn into a project.
 - **Automated Prompt Optimization** — failure-driven prompt evolution, eval-set-based selection
 - **Eval Statistics** — confidence intervals, significance testing, statistical power analysis
 - **Interpretability** — attention analysis, logit lens, probing classifiers, causal activation patching
+- **Agent Memory** — episodic/semantic memory, cross-session recall, memory consolidation
 
 ---
 
